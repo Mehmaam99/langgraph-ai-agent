@@ -90,3 +90,8 @@ project3_langgraph_agent/
 | Branching | ❌ No | ✅ Conditional edges |
 | Loops | ❌ No | ✅ Agent can retry |
 | Observability | Limited | Full LangSmith integration |
+
+## 🎥 Demo
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/ZKw46hZCG3M)
+
+> Multi-tool AI agent with tool calling — Calculator, DateTime, Text Analyzer and Knowledge Base.
